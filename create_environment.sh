@@ -61,4 +61,4 @@ check_submissions $submissions_file' > submission_reminder_app/app/reminder.sh
 echo '#!/bin/bash
 ./submission_reminder_app/app/reminder.sh' > submission_reminder_app/startup.sh
 
-./startup.sh
+./submission_reminder_app/startup.sh
